@@ -1,10 +1,18 @@
 
 
-.navbarText{
+.colorText{
     color: #f0ad4e ;
 }
 
 
-.card{
-    background-color: sandybrown;
+.cardColor{
+    background-color:  grey ;
+}
+
+.footer{
+    color: black;
+    text-align : center;
+    background-color: grey;
+    
+    
 }
