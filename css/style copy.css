@@ -1,0 +1,35 @@
+
+
+
+
+.title{
+   background-color: rgb(99, 102, 105);
+  margin-top: 5%;
+  margin-bottom: 5%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.textPlace{
+ margin-top: 5%;
+ margin-bottom: 5%;
+    columns: 2 ;
+
+}
+
+.colorText{
+    color: #f0ad4e ;
+}
+
+
+.cardColor{
+    background-color:  grey ;
+}
+
+.footer{
+    color: black;
+    text-align : center;
+    background-color: grey;
+    
+    
+}
