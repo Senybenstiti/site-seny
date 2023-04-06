@@ -1,5 +1,8 @@
 
-
+.video{
+    display: flex;
+    justify-content: center;
+}
 
 .container h4 {
     text-align: center;
@@ -37,3 +40,7 @@
     
     
 }
+
+.carousel-item {
+       transition: transform 0.3s ease-in-out;
+  }

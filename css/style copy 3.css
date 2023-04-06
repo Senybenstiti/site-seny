@@ -1,6 +1,9 @@
 
 
-
+.video{
+    display: flex;
+    justify-content: center;
+}
 .container h4 {
     text-align: center;
 }
